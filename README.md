@@ -1,0 +1,2 @@
+# FoodHub360
+ FoodHub360 is a revolutionary food delivery platform that prioritizes consumer well-being by leveraging advanced AI technology to create personalized meal plans tailored to individual dietary preferences and nutritional requirements. Our platform addresses the challenge of maintaining a healthy diet in today's fast-paced world, where time constraints often lead to poor eating habits.
